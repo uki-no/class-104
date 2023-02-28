@@ -1,0 +1,19 @@
+body{
+    background-color: #b4bfd1;
+}
+.heading{
+    background-color: #d1e2e3;
+}
+#cam{
+    border: 2px dashed #7c8787;
+    width: 350px;
+    height: 300px;
+}
+#resultObjectName,#resultObjectAccuracy,#noo{
+    color: black;
+}
+button{
+    width:150px;
+    height: 30px;
+    
+}
